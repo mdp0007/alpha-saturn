@@ -1,2 +1,9 @@
-# alpha-saturn
-Research scripts for quantitative finance
+<p align="center">
+  <img src="assets/images/alpha.png" />
+</p>
+<p align="center"><strong>Alpha Saturn</strong> is a collection of scripts used for analyzing various news sources and making stock predictions using machine learning and artificial intelligence.</p>
+
+## Requirements
+
+* Python 3.7.3
+* Rust (rustc 1.42.0)
