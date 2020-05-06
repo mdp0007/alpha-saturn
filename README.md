@@ -7,3 +7,9 @@
 
 * Python 3.7.3
 * Rust (rustc 1.42.0)
+
+## Install modules
+
+```
+pip install -r requirements.txt
+```

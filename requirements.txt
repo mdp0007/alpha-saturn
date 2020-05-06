@@ -1,0 +1,4 @@
+requests==2.9
+beautifulsoup4==4.9.0
+yfinance==0.1.54
+matplotlib==2.2.3
