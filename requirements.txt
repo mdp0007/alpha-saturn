@@ -3,3 +3,4 @@ beautifulsoup4==4.9.0
 yfinance==0.1.54
 matplotlib==2.2.3
 googlenewspy==0.0.2
+monkeylearn==3.5.2
