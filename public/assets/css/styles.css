@@ -1,0 +1,24 @@
+.container {
+    padding: 40px;
+    max-width: 500px !important;
+}
+
+a {
+    color: #3F729B !important;
+}
+
+a.dark {
+    color: #1C2331 !important;   
+}
+
+a.github {
+    font-size: 2.5em;
+}
+
+.logo {
+    width: 150px;
+}
+
+.loading {
+    font-size: 1em;
+}
