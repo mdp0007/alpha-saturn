@@ -1,4 +1,4 @@
-requests==2.9
+requests==2.20.0
 beautifulsoup4==4.9.0
 yfinance==0.1.54
 matplotlib==2.2.3
