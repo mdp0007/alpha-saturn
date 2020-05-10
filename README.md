@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/assets/images/alpha.png" />
+  <img src="https://alphasaturn.com/cdn/logo.png" />
 </p>
 <p align="center"><strong>Alpha Saturn</strong> is a collection of scripts used for analyzing various news sources and making stock predictions using machine learning and artificial intelligence.</p>
 
